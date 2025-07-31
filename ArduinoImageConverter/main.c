@@ -1,7 +1,7 @@
 /*
  * Program Briefing :
  *  It takes in a file with .RID extension and converts it to .bmp image.
- *  .RID file comes from Hardik Kalasua OV7670 modified code made for Arduino Uno later modified by me to work on Arduino Mega 2560.
+ *  .RID file comes from Hardik Kalasua OV7670 code made for Arduino Uno later modified by me to work on Arduino Mega 2560.
  *  .RID = RAW IMAGE DATA
  *  It takes in the data, Pastes a bmp image header and outputs the image as .bmp file.
  *  It will take a directory path which contains the .RID files and outputs the processed image on other directory.
