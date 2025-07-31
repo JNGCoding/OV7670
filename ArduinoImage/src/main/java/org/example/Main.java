@@ -180,6 +180,7 @@ public class Main {
             }
         });
 
+        readThread.setDaemon(true);
         readThread.start();
 
         jFrame.add(jPanel);
